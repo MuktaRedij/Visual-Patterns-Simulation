@@ -134,4 +134,10 @@ This project is perfect for exploring **computer graphics concepts**, **OpenGL s
 ---
 
 ## 🧩 Project Structure
-Visual-Patterns-Studio/ │ ├── main.py # Main menu and program launcher ├── drawing.py # Interactive paint tool ├── fractal.py # GPU-based fractal generator ├── kaleidoscope.py # Animated kaleidoscopic patterns ├── assets/ # Optional folder for icons or saved images └── README.md # Project documentation
+Visual-Patterns-Studio/ 
+│ 
+├── main.py # Main menu and program launcher 
+├── drawing.py # Interactive paint tool ├── fractal.py # GPU-based fractal generator 
+├── kaleidoscope.py # Animated kaleidoscopic patterns 
+├── assets/ # Optional folder for icons or saved images 
+└── README.md # Project documentation
