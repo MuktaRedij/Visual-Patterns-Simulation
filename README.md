@@ -134,10 +134,44 @@ This project is perfect for exploring **computer graphics concepts**, **OpenGL s
 ---
 
 ## 🧩 Project Structure
-Visual-Patterns-Studio/ 
-│ 
-├── main.py # Main menu and program launcher 
-├── drawing.py # Interactive paint tool ├── fractal.py # GPU-based fractal generator 
-├── kaleidoscope.py # Animated kaleidoscopic patterns 
-├── assets/ # Optional folder for icons or saved images 
-└── README.md # Project documentation
+---
+
+## 🕹️ Controls
+
+### 🎨 Drawing Mode
+| Action | Key / Mouse |
+|:---|:---|
+| Draw | **Left Click** |
+| Erase | **Right Click** |
+| Change Brush Size | **+** / **-** |
+| Switch Tool | **D**, **E**, **L**, **R**, **O**, **B** |
+| Toggle Fill | **F** |
+| Undo / Redo | **Z** / **Y** |
+| Clear Canvas | **C** |
+| Save Image | **S** |
+| Back to Menu | **ESC** |
+
+### 🌌 Fractal Mode
+| Action | Key / Mouse |
+|:---|:---|
+| Zoom In / Out | **Mouse Wheel** |
+| Pan | **Drag Left Click** |
+| Regenerate Colors | **Left Click** |
+| Adjust Power | **↑** / **↓** |
+| Reset View | **R** |
+| Exit | **ESC** |
+
+### 🌈 Kaleidoscope Mode
+| Action | Key / Mouse |
+|:---|:---|
+| Regenerate Colors | **Left Click** |
+| Exit | **ESC** |
+
+---
+
+## ⚙️ Installation
+
+### 🪄 Step 1: Clone the Repository
+```bash
+git clone [https://github.com/](https://github.com/)<your-username>/Visual-Patterns-Studio.git
+cd Visual-Patterns-Studio
