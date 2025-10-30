@@ -62,5 +62,5 @@ It combines **fractals, fireworks, kaleidoscopes, mandalas, and freehand drawing
 
 ---
 
-## 🗂️ Project Structure
+
 
